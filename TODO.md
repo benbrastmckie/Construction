@@ -34,11 +34,19 @@ Note: (*) Required for permit final inspection.
 ## Prep Work
 
 - [ ] site clean up
-  - [ ] shed
+  - [ ] sell stove
   - [ ] shop
+    - [ ] fix south wall cabinets
+    - [ ] fill south wall
+    - [ ] floor plan
+    - [ ] order cabinets
+    - [ ] install cabinets
+    - [ ] clear space
+  - [ ] shed
   - [ ] behind cottage
 - [ ] tools
   - [ ] table saw
+  - [ ] work bench
   - [ ] clamps
   - [ ] dust extraction
 
@@ -58,7 +66,7 @@ Note: (*) Required for permit final inspection.
 ## Ext Work
 
 - [ ] Front porch 
-  - [ ] railing
+  - [ ] railing infill
   - [ ] trim
   - [ ] flooring
 - [ ] Yard work
