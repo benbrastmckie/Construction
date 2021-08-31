@@ -8,6 +8,8 @@ Note: (*) Required for permit final inspection.
 - [ ] final interior touch up painting (Joel Damion)
 - [ ] order
   - [ ] window coverings
+  - [ ] tiny house shades
+  - [ ] guest bath hose
 
 ## Sys Work
 
@@ -19,17 +21,23 @@ Note: (*) Required for permit final inspection.
 ## Misc Work
 
 - [ ] shower enclosures*
+  - [ ] plan
+  - [ ] materials
+  - [ ] install
 - [ ] guest bath fixtures*
   - [ ] tub
 - [ ] smoke detectors
 - [ ] fireplace mantle
   - [ ] install mantle
   - [ ] tile work
+- [ ] kitchen under cabinet lights
 - [ ] repairs
-  - [ ] cove ltg
+  - [x] cove ltg
   - [ ] bath fans
-  - [ ] kitchen cabinets
+  - [ ] kitchen draw slide stops
+  - [x] kitchen cabinets
 - [ ] door stops
+- [ ] living room outlet
 
 ## Prep Work
 
