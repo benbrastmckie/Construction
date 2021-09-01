@@ -7,6 +7,12 @@ Note: (*) Required for permit final inspection.
 - [ ] paint cottage (Joel Damion)
 - [ ] final interior touch up painting (Joel Damion)
 - [ ] order
+  - [ ] speakers
+    - [ ] kitchen
+    - [ ] dinning
+    - [ ] living room
+    - [ ] deck
+  - [ ] master stair wall sconce
   - [ ] window coverings
   - [ ] tiny house shades
   - [ ] guest bath hose
@@ -30,14 +36,18 @@ Note: (*) Required for permit final inspection.
 - [ ] fireplace mantle
   - [ ] install mantle
   - [ ] tile work
-- [ ] kitchen under cabinet lights
+- [x] kitchen under cabinet lights
+  - [ ] replace switch with dimmer
+- [ ] replace master stair wall sconce
+- [ ] oven hood cover
 - [ ] repairs
   - [x] cove ltg
+    - [ ] add power cord to driver
   - [ ] bath fans
-  - [ ] kitchen draw slide stops
+  - [ ] kitchen drawer slide stops
   - [x] kitchen cabinets
-- [ ] door stops
-- [ ] living room outlet
+- [ ] floor mounted door stops
+- [ ] living room outlets
 
 ## Prep Work
 
@@ -53,10 +63,10 @@ Note: (*) Required for permit final inspection.
   - [ ] shed
   - [ ] behind cottage
 - [ ] tools
-  - [ ] table saw
-  - [ ] work bench
+  - [x] table saw
+  - [x] work bench
   - [ ] clamps
-  - [ ] dust extraction
+  - [x] dust extraction
 
 ## Shop Work
 
