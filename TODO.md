@@ -8,11 +8,11 @@ Note: (*) Required for permit final inspection.
 - [ ] final interior touch up painting (Joel Damion)
 - [ ] order
   - [ ] speakers
-    - [ ] kitchen
-    - [ ] dinning
     - [ ] living room
-    - [ ] deck
-  - [ ] master stair wall sconce
+    - [x] kitchen
+    - [x] dinning
+    - [x] office
+  - [x] master stair wall sconce
   - [ ] window coverings
   - [ ] tiny house shades
   - [ ] guest bath hose
@@ -20,7 +20,7 @@ Note: (*) Required for permit final inspection.
 ## Sys Work
 
 - [ ] audio setup
-  - [ ] complete speaker connection
+  - [ ] wire outdoor speakers
 - [ ] ethernet connections
   - [ ] patch panel
 
@@ -41,10 +41,13 @@ Note: (*) Required for permit final inspection.
 - [ ] replace master stair wall sconce
 - [ ] oven hood cover
 - [ ] repairs
-  - [x] cove ltg
-    - [ ] add power cord to driver
+  - [ ] dog sink shim
   - [ ] bath fans
   - [ ] kitchen drawer slide stops
+  - [x] fridge supply line cove cover
+  - [x] cove ltg
+    - [ ] add power cord to driver
+    - [ ] replace 30W power supply
   - [x] kitchen cabinets
 - [ ] floor mounted door stops
 - [ ] living room outlets
@@ -60,12 +63,12 @@ Note: (*) Required for permit final inspection.
     - [ ] order cabinets
     - [ ] install cabinets
     - [ ] clear space
-  - [ ] shed
-  - [ ] behind cottage
+  - [ ] clear out shed
+  - [ ] clear behind cottage
 - [ ] tools
+  - [ ] clamps
   - [x] table saw
   - [x] work bench
-  - [ ] clamps
   - [x] dust extraction
 
 ## Shop Work
@@ -83,16 +86,23 @@ Note: (*) Required for permit final inspection.
 
 ## Ext Work
 
-- [ ] Front porch 
+- [ ] front porch 
   - [ ] railing infill
   - [ ] trim
   - [ ] flooring
-- [ ] Yard work
+- [ ] yard work
   - [ ] front steps
   - [ ] irrigation
   - [ ] sheet mulch
 - [ ] exterior lighting
 - [ ] back yard irrigation
+- [ ] deck
+  - [ ] bench
+  - [ ] bar
+  - [ ] railings
+- [ ] arbor
+  - [ ] bracing
+  - [ ] lattices
 - [ ] fencing
   - [ ] south
   - [ ] west
