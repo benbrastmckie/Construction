@@ -2,15 +2,20 @@
 
 ## To Buy
 
+- 60W LED power supply
+- garage containers
+- [ ] (3x) floor mounted door stops
+- [ ] (2x) wall mounted door stops
+- [ ] kitchen cabinet stop pads
 - [x] 18-2 wire @ 4'
-- [ ] Luton MA-Pro Brown dimmer switch
-- [ ] brown 20A receptacle
-- [ ] white plug for kitchen LED
-- [ ] 60W LED power supply
+- [x] Luton MA-Pro Brown dimmer switch
+- [x] brown 20A receptacle
+- [x] white plug for kitchen LED
 
 ## Returns
 
 - [ ] Home Depot
-- [ ] FireFlex 60W LED driver
+- [ ] Bay Shore Electric
+- [x] FireFlex 60W LED driver
   - [x] return label ordered
-  - [ ] mail driver
+  - [x] mail driver

@@ -4,109 +4,127 @@ Note: (*) Required for permit final inspection.
 
 ## Management
 
-- [ ] paint cottage (Joel Damion)
-- [ ] final interior touch up painting (Joel Damion)
-- [ ] order
+- paint cottage (Joel Damion)
+- final interior touch up painting (Joel Damion)
+- order
   - [ ] speakers
-    - [ ] living room
+    - [ ] LIVING ROOM
     - [x] kitchen
     - [x] dinning
     - [x] office
   - [x] master stair wall sconce
   - [ ] window coverings
-  - [ ] tiny house shades
-  - [ ] guest bath hose
+    - [ ] KITCHEN SHADES
+    - [ ] measure tiny house shades
+  - guest bath hose
 
 ## Sys Work
 
 - [ ] audio setup
+  - [ ] LOCATE OUTDOOR SPEAKERS
   - [ ] wire outdoor speakers
-- [ ] ethernet connections
-  - [ ] patch panel
+  - install speakers
+    - deck
+    - living room
+    - dinning room
+    - kitchen
+- ethernet connections
+  - patch panel
 
 ## Misc Work
 
-- [ ] shower enclosures*
-  - [ ] plan
-  - [ ] materials
-  - [ ] install
-- [ ] guest bath fixtures*
-  - [ ] tub
-- [ ] smoke detectors
+- shower enclosures*
+  - plan
+  - materials
+  - install
+- guest bath fixtures*
+  - tub
+- smoke detectors
 - [ ] fireplace mantle
-  - [ ] install mantle
-  - [ ] tile work
-- [x] kitchen under cabinet lights
-  - [ ] replace switch with dimmer
-- [ ] replace master stair wall sconce
+  - [ ] DESIGN
+  - install mantle
+  - set up tile work
+- [ ] set up dinning room RGB
+- replace master stair wall sconce
 - [ ] oven hood cover
 - [ ] repairs
-  - [ ] dog sink shim
   - [ ] bath fans
+  - [ ] kitchen cabinet stop pads
   - [ ] kitchen drawer slide stops
-  - [x] fridge supply line cove cover
-  - [x] cove ltg
-    - [ ] add power cord to driver
+  - [ ] dog sink shim
+  - [ ] cove ltg
     - [ ] replace 30W power supply
+    - [x] add power cord to driver
+  - [x] fridge supply line cove cover
   - [x] kitchen cabinets
 - [ ] floor mounted door stops
 - [ ] living room outlets
+  - [ ] CONFIRM
+  - install
+- [x] kitchen under cabinet lights
+  - [x] replace switch with dimmer
 
 ## Prep Work
 
-- [ ] site clean up
-  - [ ] sell stove
+- site clean up
+  - sell stove
   - [ ] shop
-    - [ ] fix south wall cabinets
-    - [ ] fill south wall
-    - [ ] floor plan
-    - [ ] order cabinets
-    - [ ] install cabinets
     - [ ] clear space
-  - [ ] clear out shed
-  - [ ] clear behind cottage
-- [ ] tools
-  - [ ] clamps
+    - [ ] DESIGN CABINETS
+    - collect materials
+    - build cabinets
+    - install cabinets
+    - [x] fix south wall shelves
+    - [x] fill south wall shelves
+  - clear out shed
+  - clear behind cottage
+- [x] tools
+  - [x] clamps
   - [x] table saw
   - [x] work bench
   - [x] dust extraction
 
 ## Shop Work
 
-- [ ] finish master closet
-- [ ] library
-- [ ] front entry
-- [ ] hand railings
-  - [ ] buffet
-  - [ ] master
-  - [ ] garage
-- [ ] tv cabinet
-- [ ] fireplace shelves
-- [ ] coffee table
+- finish master closet
+- library
+- front entry
+- hand railings
+  - buffet
+  - master
+  - garage
+- tv cabinet
+- fireplace shelves
+- coffee table
 
 ## Ext Work
 
-- [ ] front porch 
-  - [ ] railing infill
-  - [ ] trim
-  - [ ] flooring
-- [ ] yard work
-  - [ ] front steps
-  - [ ] irrigation
-  - [ ] sheet mulch
-- [ ] exterior lighting
-- [ ] back yard irrigation
+- front porch 
+  - railing infill
+  - trim
+  - flooring
+- yard work
+  - front steps
+  - irrigation
+  - sheet mulch
+- exterior lighting
+- back yard irrigation
 - [ ] deck
-  - [ ] bench
-  - [ ] bar
-  - [ ] railings
-- [ ] arbor
-  - [ ] bracing
-  - [ ] lattices
-- [ ] fencing
-  - [ ] south
-  - [ ] west
-  - [ ] north
+  - [ ] DETAILED DESIGN
+  - build prototype
+  - order braces
+    - bench
+    - bar
+    - arbor
+  - buy materials
+  - install
+  - arbor
+    - install bracing
+    - lattices
+- fencing
+  - south
+  - west
+  - north
 
 
 
