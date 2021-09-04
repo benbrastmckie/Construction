@@ -47,11 +47,14 @@ Note: (*) Required for permit final inspection.
 - [ ] set up dinning room RGB
 - replace master stair wall sconce
 - [ ] oven hood cover
+- [ ] garage weather stripping
+- [ ] receptacle cover
 - [ ] repairs
+  - [ ] fix bbq receptacle
   - [ ] bath fans
   - [ ] kitchen cabinet stop pads
   - [ ] kitchen drawer slide stops
-  - [ ] dog sink shim
+  - [x] dog sink shim
   - [ ] cove ltg
     - [ ] replace 30W power supply
     - [x] add power cord to driver
