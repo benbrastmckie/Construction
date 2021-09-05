@@ -7,6 +7,7 @@ Note: (*) Required for permit final inspection.
 - paint cottage (Joel Damion)
 - final interior touch up painting (Joel Damion)
 - order
+  - [ ] skylight fixtures
   - [ ] speakers
     - [ ] LIVING ROOM
     - [x] kitchen
@@ -40,30 +41,36 @@ Note: (*) Required for permit final inspection.
 - guest bath fixtures*
   - tub
 - smoke detectors
+- install skylight fixtures
+- [ ] install garage access panel
 - [ ] fireplace mantle
   - [ ] DESIGN
   - install mantle
   - set up tile work
-- [ ] set up dinning room RGB
 - replace master stair wall sconce
-- [ ] oven hood cover
-- [ ] garage weather stripping
-- [ ] receptacle cover
+- [ ] set up dinning room RGB
 - [ ] repairs
-  - [ ] fix bbq receptacle
+  - [ ] mast bath fan
+  - [ ] recirc pumps
+    - [ ] check valve
+    - [ ] count down switch
   - [ ] bath fans
   - [ ] kitchen cabinet stop pads
   - [ ] kitchen drawer slide stops
-  - [x] dog sink shim
+  - [ ] fix bbq receptacle
   - [ ] cove ltg
     - [ ] replace 30W power supply
     - [x] add power cord to driver
+- [ ] garage weather stripping
+- [ ] install receptacle cover
+  - [x] dog sink shim
   - [x] fridge supply line cove cover
   - [x] kitchen cabinets
 - [ ] floor mounted door stops
 - [ ] living room outlets
   - [ ] CONFIRM
   - install
+- [x] oven hood cover
 - [x] kitchen under cabinet lights
   - [x] replace switch with dimmer
 

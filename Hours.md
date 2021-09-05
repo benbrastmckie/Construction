@@ -1,6 +1,6 @@
 # Hours
 
-- 03.09.21 [8,18] = 10hrs
+- 03.09.21 [8,19] = 11hrs
   - fixed garage shelving
   - added dimmer to cabinet light
   - replaced island receptacle
@@ -9,3 +9,5 @@
   - fix kitchen cabinets
   - under counter LED
   - fix light shelf LED
+- 04.09.21 [10,11] = 1hrs
+  - cleanup garage
