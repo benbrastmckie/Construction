@@ -24,11 +24,12 @@ Note: (*) Required for permit final inspection.
 - [ ] audio setup
   - [ ] LOCATE OUTDOOR SPEAKERS
   - [ ] wire outdoor speakers
-  - install speakers
+  - [ ] install speakers
     - deck
     - living room
-    - dinning room
-    - kitchen
+    - [x] dinning room
+    - [x] kitchen
+    - [ ] garage
 - ethernet connections
   - patch panel
 
@@ -48,31 +49,34 @@ Note: (*) Required for permit final inspection.
   - install mantle
   - set up tile work
 - replace master stair wall sconce
-- [ ] set up dinning room RGB
 - [ ] repairs
   - [ ] mast bath fan
+  - [ ] guest bath fan
   - [ ] recirc pumps
     - [ ] check valve
-    - [ ] count down switch
-  - [ ] bath fans
+    - [x] count down switch
   - [ ] kitchen cabinet stop pads
   - [ ] kitchen drawer slide stops
   - [ ] fix bbq receptacle
   - [ ] cove ltg
-    - [ ] replace 30W power supply
+    - replace 30W power supply
     - [x] add power cord to driver
-- [ ] garage weather stripping
-- [ ] install receptacle cover
   - [x] dog sink shim
   - [x] fridge supply line cove cover
   - [x] kitchen cabinets
+- [ ] install receptacle cover
 - [ ] floor mounted door stops
 - [ ] living room outlets
   - [ ] CONFIRM
   - install
+- [x] garage weather stripping
+- [x] set up dinning room RGB
 - [x] oven hood cover
 - [x] kitchen under cabinet lights
   - [x] replace switch with dimmer
+
+PRO NUMBER: 742133855
+DOC NUMBER: 1.888.420.8960
 
 ## Prep Work
 
@@ -80,8 +84,9 @@ Note: (*) Required for permit final inspection.
   - sell stove
   - [ ] shop
     - [ ] clear space
-    - [ ] DESIGN CABINETS
-    - collect materials
+    - [x] DESIGN CABINETS
+    - [x] takeoffs
+    - [ ] collect materials
     - build cabinets
     - install cabinets
     - [x] fix south wall shelves
