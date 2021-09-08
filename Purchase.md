@@ -17,6 +17,7 @@
 - [ ] (2x) 1/2" x 36' pipe
 - [ ] (2x) br decora 2-way switch
 - [ ] 1/4" shelving jig
+- [ ] 3" door stop
 - [x] (3x) floor mounted door stops
 - [x] (2x) wall mounted door stops
 - [x] countdown switch
