@@ -1,5 +1,11 @@
 # Hours
 
+- 08.09.21 [9,19] = 10hrs
+- 07.09.21 [14,19] = 5hrs
+  - installed speakers
+  - floor stops
+  - replaced pump switches
+  - ordering cabinet materials
 - 06.09.21 [12,14],[16,17] = 3hrs
   - takeoffs
   - fixed pump switches

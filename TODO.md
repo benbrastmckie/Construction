@@ -41,34 +41,35 @@ Note: (*) Required for permit final inspection.
   - install
 - guest bath fixtures*
   - tub
-- smoke detectors
 - install skylight fixtures
+- floor mounted door stop
+- [ ] smoke detectors
 - [ ] install garage access panel
 - [ ] fireplace mantle
   - [ ] DESIGN
   - install mantle
   - set up tile work
-- replace master stair wall sconce
 - [ ] repairs
   - [ ] mast bath fan
   - [ ] guest bath fan
   - [ ] recirc pumps
-    - [ ] check valve
+    - [ ] test
+    - [x] check valve
     - [x] count down switch
   - [ ] kitchen cabinet stop pads
   - [ ] kitchen drawer slide stops
-  - [ ] fix bbq receptacle
+  - [x] fix bbq receptacle
   - [ ] cove ltg
     - replace 30W power supply
     - [x] add power cord to driver
   - [x] dog sink shim
   - [x] fridge supply line cove cover
   - [x] kitchen cabinets
-- [ ] install receptacle cover
-- [ ] floor mounted door stops
-- [ ] living room outlets
+- [ ] living room floor outlets
   - [ ] CONFIRM
   - install
+- [x] install receptacle cover
+- [x] replace master stair wall sconce
 - [x] garage weather stripping
 - [x] set up dinning room RGB
 - [x] oven hood cover
