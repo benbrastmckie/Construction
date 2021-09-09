@@ -1,6 +1,9 @@
 # Hours
 
 - 08.09.21 [9,19] = 10hrs
+  - instal master stair wall sconce
+  - fix check valve
+  - clean garage
 - 07.09.21 [14,19] = 5hrs
   - installed speakers
   - floor stops
