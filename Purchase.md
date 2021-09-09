@@ -12,6 +12,7 @@
 - [ ] (2x) 1/2" x 36" pipe
 - [ ] kreg concealed hinge jig
 - [ ] kreg pocket hole jig
+- [ ] dato stack
 - [x] check valve assembly
 - [x] wood glue
 - [x] 3" door stop

@@ -112,6 +112,8 @@ DOC NUMBER: 1.888.420.8960
 - tv cabinet
 - fireplace shelves
 - coffee table
+- front alcove
+- understair shelves
 
 ## Ext Work
 
