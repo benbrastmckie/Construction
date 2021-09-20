@@ -1,6 +1,12 @@
 # Hours
 
-- 09.09.21 [10,] = 
+- 09.09.21 [10,14] = 4hrs
+  - set up garage
+  - receive table saw
+- 09.09.21 [10,19] = 9hrs
+  - pick up tool chest
+  - clean/organise garage
+  - misc electrical
 - 08.09.21 [9,19] = 10hrs
   - instal master stair wall sconce
   - fix check valve

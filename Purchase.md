@@ -2,17 +2,23 @@
 
 ## To Buy
 
-- 60W LED power supply
-- garage containers
+- [ ] 60W LED power supply
+- [ ] contractor bags
+- [ ] block planes
+- [ ] 30A switch
+- [ ] saw outlet plate
 - [ ] kitchen cabinet stop plates
-- [ ] husky toolchest: #1002811059
 - [ ] plywood veneer (10x)
-- [ ] 35mm forsner bit
 - [ ] (2x) 3/4" x 48" pipe
 - [ ] (2x) 1/2" x 36" pipe
-- [ ] kreg concealed hinge jig
-- [ ] kreg pocket hole jig
 - [ ] dato stack
+- [ ] dust adapter T
+- [ ] 2.5" hose
+- [ ] 3" angle stock 5 7/8" x 1/4"
+- [x] husky toolchest: #1002811059
+- [x] 35mm forsner bit
+- [x] kreg concealed hinge jig
+- [x] kreg pocket hole jig
 - [x] check valve assembly
 - [x] wood glue
 - [x] 3" door stop

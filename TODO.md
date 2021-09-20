@@ -52,16 +52,16 @@ Note: (*) Required for permit final inspection.
 - [ ] repairs
   - [ ] mast bath fan
   - [ ] guest bath fan
-  - [ ] recirc pumps
-    - [ ] test
-    - [x] check valve
-    - [x] count down switch
   - [ ] kitchen cabinet stop pads
   - [ ] kitchen drawer slide stops
-  - [x] fix bbq receptacle
   - [ ] cove ltg
     - replace 30W power supply
     - [x] add power cord to driver
+  - [x] recirc pumps
+    - [x] test
+    - [x] check valve
+    - [x] count down switch
+  - [x] fix bbq receptacle
   - [x] dog sink shim
   - [x] fridge supply line cove cover
   - [x] kitchen cabinets
@@ -76,19 +76,16 @@ Note: (*) Required for permit final inspection.
 - [x] kitchen under cabinet lights
   - [x] replace switch with dimmer
 
-PRO NUMBER: 742133855
-DOC NUMBER: 1.888.420.8960
-
 ## Prep Work
 
 - site clean up
   - sell stove
   - [ ] shop
-    - [ ] clear space
+    - [x] clear space
     - [x] DESIGN CABINETS
     - [x] takeoffs
-    - [ ] collect materials
-    - build cabinets
+    - [x] collect materials
+    - [ ] build cabinets
     - install cabinets
     - [x] fix south wall shelves
     - [x] fill south wall shelves
@@ -96,9 +93,16 @@ DOC NUMBER: 1.888.420.8960
   - clear behind cottage
 - [x] tools
   - [x] clamps
-  - [x] table saw
+  - [ ] table saw
+    - [ ] dust 
+    - [ ] angle
+    - [ ] extension
   - [x] work bench
   - [x] dust extraction
+- [ ] work bench
+  - [ ] design
+  - order materials
+  - build
 
 ## Shop Work
 
