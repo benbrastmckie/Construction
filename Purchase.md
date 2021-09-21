@@ -2,19 +2,23 @@
 
 ## To Buy
 
-- [ ] 60W LED power supply
 - [ ] contractor bags
-- [ ] block planes
+- [ ] wire wheel for grinder
 - [ ] 30A switch
+- [ ] black spray paint
+- [ ] bondo
 - [ ] saw outlet plate
-- [ ] kitchen cabinet stop plates
-- [ ] plywood veneer (10x)
+- [ ] saw protector oil
 - [ ] (2x) 3/4" x 48" pipe
 - [ ] (2x) 1/2" x 36" pipe
+- [ ] block planes
 - [ ] dato stack
-- [ ] dust adapter T
 - [ ] 2.5" hose
-- [ ] 3" angle stock 5 7/8" x 1/4"
+- [ ] dust adapter T
+- [ ] kitchen cabinet stop plates
+- [x] 60W LED power supply
+- [x] plywood veneer (10x)
+- [x] 3" angle stock 5 7/8" x 1/4"
 - [x] husky toolchest: #1002811059
 - [x] 35mm forsner bit
 - [x] kreg concealed hinge jig
