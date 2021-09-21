@@ -2,11 +2,6 @@
 
 ## To Buy
 
-- [ ] contractor bags
-- [ ] wire wheel for grinder
-- [ ] 30A switch
-- [ ] black spray paint
-- [ ] bondo
 - [ ] saw outlet plate
 - [ ] saw protector oil
 - [ ] (2x) 3/4" x 48" pipe
@@ -16,6 +11,11 @@
 - [ ] 2.5" hose
 - [ ] dust adapter T
 - [ ] kitchen cabinet stop plates
+- [x] contractor bags
+- [x] wire wheel for grinder
+- [x] 30A switch
+- [x] black spray paint
+- [x] bondo
 - [x] 60W LED power supply
 - [x] plywood veneer (10x)
 - [x] 3" angle stock 5 7/8" x 1/4"
