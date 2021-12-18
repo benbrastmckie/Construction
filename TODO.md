@@ -7,55 +7,64 @@ Note: (*) Required for permit final inspection.
 - paint cottage (Joel Damion)
 - final interior touch up painting (Joel Damion)
 - order
-  - [ ] skylight fixtures
   - [ ] speakers
-    - [ ] LIVING ROOM
+    - [ ] living room [ROB]
     - [x] kitchen
     - [x] dinning
     - [x] office
+  - [x] skylight fixtures
   - [x] master stair wall sconce
-  - [ ] window coverings
-    - [ ] KITCHEN SHADES
-    - [ ] measure tiny house shades
-  - guest bath hose
 
 ## Sys Work
 
 - [ ] audio setup
-  - [ ] LOCATE OUTDOOR SPEAKERS
+  - [ ] locate outdoor speakers [ROB]
   - [ ] wire outdoor speakers
   - [ ] install speakers
     - deck
     - living room
     - [x] dinning room
     - [x] kitchen
-    - [ ] garage
+    - [x] garage
 - ethernet connections
   - patch panel
 
 ## Misc Work
 
-- shower enclosures*
-  - plan
-  - materials
-  - install
-- guest bath fixtures*
-  - tub
-- install skylight fixtures
-- floor mounted door stop
+- [ ] guest bath fixtures*
+  - [x] tub hose
+    - [x] order
+    - [x] install
+  - [ ] shower enclosures*
+    - [ ] locate materials [ROB]
+    - install
 - [ ] smoke detectors
-- [ ] install garage access panel
 - [ ] fireplace mantle
-  - [ ] DESIGN
-  - install mantle
+  - [x] design
+  - [ ] install mantle
   - set up tile work
+- [ ] install guest bath motion led
+- [x] install garage access panel
+- [x] floor mounted door stop
+- [x] install skylight fixtures
+- [ ] window shades
+  - [ ] front
+    - [ ] order [ROB]
+    - [ ] install
+  - [x] bathroom
+  - [x] office
+  - [x] garage
+  - [x] measure tiny house shades
 - [ ] repairs
   - [ ] mast bath fan
   - [ ] guest bath fan
   - [ ] kitchen cabinet stop pads
   - [ ] kitchen drawer slide stops
-  - [ ] cove ltg
-    - replace 30W power supply
+  - [x] garage door
+    - [x] call emtek support about emtouch
+  - [x] fix door set screws
+  - [x] cove ltg
+    - [x] replace 30W power supply
     - [x] add power cord to driver
   - [x] recirc pumps
     - [x] test
@@ -66,7 +75,7 @@ Note: (*) Required for permit final inspection.
   - [x] fridge supply line cove cover
   - [x] kitchen cabinets
 - [ ] living room floor outlets
-  - [ ] CONFIRM
+  - [ ] confirm [ROB] 
   - install
 - [x] install receptacle cover
 - [x] replace master stair wall sconce
@@ -79,30 +88,34 @@ Note: (*) Required for permit final inspection.
 ## Prep Work
 
 - site clean up
-  - sell stove
+  - [ ] sell stove
+  - [ ] craigslist garage
   - [ ] shop
+    - [ ] ORGANISE MATERIALS
+      - buy tubs
+    - [ ] outfeed table
+      - [ ] design
+      - build
+    - [ ] add drawer to workbench
+      - [ ] order glides
     - [x] clear space
-    - [x] DESIGN CABINETS
+    - [x] design cabinets
     - [x] takeoffs
     - [x] collect materials
-    - [ ] build cabinets
-    - install cabinets
+    - [x] build cabinets
+    - [x] install cabinets
     - [x] fix south wall shelves
     - [x] fill south wall shelves
-  - clear out shed
-  - clear behind cottage
+  - [x] clear out shed
+  - [ ] clear behind cottage
 - [x] tools
   - [x] clamps
   - [ ] table saw
-    - [ ] dust 
-    - [ ] angle
-    - [ ] extension
-  - [x] work bench
+    - [x] dust 
+    - [x] angle
+    - [x] extension
+    - [ ] shelves
   - [x] dust extraction
-- [ ] work bench
-  - [ ] design
-  - order materials
-  - build
 
 ## Shop Work
 
@@ -132,17 +145,21 @@ Note: (*) Required for permit final inspection.
 - exterior lighting
 - back yard irrigation
 - [ ] deck
-  - [ ] DETAILED DESIGN
-  - build prototype
-  - order braces
-    - bench
-    - bar
-    - arbor
+  - [X] detailed design
+  - [x] build prototype
+  - [ ] finish brackets
+    - [ ] sand
+    - [ ] paint
+  - [x] order brackets
+    - [x] bench
+    - [ ] bar
+    - [ ] arbor
+  - [ ] TAKEOFFS
   - buy materials
   - install
-  - arbor
-    - install bracing
-    - lattices
+- arbor
+  - install bracing
+  - lattices
 - fencing
   - south
   - west

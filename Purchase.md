@@ -2,15 +2,17 @@
 
 ## To Buy
 
+- [ ] dust collector switch
 - [ ] saw outlet plate
 - [ ] saw protector oil
 - [ ] (2x) 3/4" x 48" pipe
 - [ ] (2x) 1/2" x 36" pipe
-- [ ] block planes
-- [ ] dato stack
 - [ ] 2.5" hose
 - [ ] dust adapter T
 - [ ] kitchen cabinet stop plates
+- [x] block planes
+- [x] Japanese handsaw
+- [x] dato stack
 - [x] contractor bags
 - [x] wire wheel for grinder
 - [x] 30A switch
