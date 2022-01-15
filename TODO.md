@@ -35,14 +35,14 @@ Note: (*) Required for permit final inspection.
   - [x] tub hose
     - [x] order
     - [x] install
-  - [ ] shower enclosures*
-    - [ ] locate materials [ROB]
-    - install
+  - [x] shower enclosures*
+    - [x] locate materials [ROB]
+    - [x] install
 - [ ] smoke detectors
 - [ ] fireplace mantle
   - [x] design
-  - [ ] install mantle
-  - set up tile work
+  - [x] install mantle
+  - [ ] install hardy backer
 - [ ] install guest bath motion led
 - [x] install garage access panel
 - [x] floor mounted door stop
@@ -92,12 +92,15 @@ Note: (*) Required for permit final inspection.
   - [ ] craigslist garage
   - [ ] shop
     - [ ] ORGANISE MATERIALS
-      - buy tubs
+      - [ ] buy tubs
     - [ ] outfeed table
       - [ ] design
       - build
-    - [ ] add drawer to workbench
-      - [ ] order glides
+    - [ ] add drawers to workbench
+      - [x] order bottom glides
+      - [x] order top glides
+      - [x] build bottom drawer
+      - [ ] build top drawer
     - [x] clear space
     - [x] design cabinets
     - [x] takeoffs
@@ -115,7 +118,8 @@ Note: (*) Required for permit final inspection.
     - [x] angle
     - [x] extension
     - [ ] shelves
-  - [x] dust extraction
+  - [ ] dust extraction
+    - [ ] router dust box
 
 ## Shop Work
 
@@ -134,9 +138,9 @@ Note: (*) Required for permit final inspection.
 
 ## Ext Work
 
-- front porch 
-  - railing infill
-  - trim
+- [ ] front porch 
+  - [x] railing infill
+  - [ ] trim
   - flooring
 - yard work
   - front steps
@@ -148,15 +152,15 @@ Note: (*) Required for permit final inspection.
   - [X] detailed design
   - [x] build prototype
   - [ ] finish brackets
-    - [ ] sand
+    - [x] sand
     - [ ] paint
   - [x] order brackets
     - [x] bench
     - [ ] bar
     - [ ] arbor
-  - [ ] TAKEOFFS
-  - buy materials
-  - install
+  - [x] TAKEOFFS
+  - [ ] buy materials
+  - [ ] install
 - arbor
   - install bracing
   - lattices

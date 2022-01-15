@@ -4,12 +4,13 @@
 
 - [ ] dust collector switch
 - [ ] saw outlet plate
-- [ ] saw protector oil
-- [ ] (2x) 3/4" x 48" pipe
-- [ ] (2x) 1/2" x 36" pipe
 - [ ] 2.5" hose
-- [ ] dust adapter T
+- [ ] router dust box
+- [ ] router dust hose
 - [ ] kitchen cabinet stop plates
+- [x] saw protector oil
+- [x] (2x) 3/4" x 48" pipe
+- [x] (2x) 1/2" x 36" pipe
 - [x] block planes
 - [x] Japanese handsaw
 - [x] dato stack
@@ -40,15 +41,5 @@
 - [x] Luton MA-Pro Brown dimmer switch
 - [x] brown 20A receptacle
 - [x] white plug for kitchen LED
-
-## Returns
-
-- [ ] Home Depot
-  - [ ] 3-way switch
-  - [x] door stops
-- [x] Bay Shore Electric
-- [x] FireFlex 60W LED driver
-  - [x] return label ordered
-  - [x] mail driver
 
 
