@@ -126,6 +126,7 @@ Note: (*) Required for permit final inspection.
 - finish master closet
 - library
 - front entry
+- Emmet's bookshelf
 - hand railings
   - buffet
   - master
@@ -161,9 +162,24 @@ Note: (*) Required for permit final inspection.
   - [x] TAKEOFFS
   - [ ] buy materials
   - [ ] install
-- arbor
+- [ ] arbor
   - install bracing
-  - lattices
+  - [ ] joists
+    - 3x 10' [2x6]
+  - [ ] lattices 
+    - 2x 10' [2x6]
+    - 1x 12' [2x6]
+  - [ ] arc 
+    - 2x 8' [2x12] con heart ok
+  - [ ] wood bracing 
+    - 2x 4' [2x6] con heart or scrap ok
+    - pt 3' [4x4] check scrap
+  - [ ] 2x galv A35 or similar
+  - [ ] top rail [2x8]
+    - [x] 4.5'
+    - [x] 5'3"
+    - 1x 10' [8'8"]
+    - 3x 12' [12',10.5,7',4']
 - fencing
   - south
   - west
